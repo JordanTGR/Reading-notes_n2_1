@@ -17,3 +17,5 @@ Son tres especificamente siendo ´*´ o ´+´ y ´-´ siendo estos tres, el aste
 - lista 1
 + lista 2
 * lista 3
+
+## Practicando git bash y GitHub
