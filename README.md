@@ -18,4 +18,4 @@ Son tres especificamente siendo ´*´ o ´+´ y ´-´ siendo estos tres, el aste
 + lista 2
 * lista 3
 
-## Practicando git bash y GitHub
+## Practicando Git Bash y GitHub
